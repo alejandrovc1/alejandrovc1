@@ -13,7 +13,8 @@
 
 - 📫 Contact me in **alejandrovc-@outlook.com**
 
-- 📄 Know about my experiences <a target="_blank" >https://drive.google.com/file/d/192yzuvVNMybvDR_xq8QI2DkpkuzCLtmd/view?usp=share_link/></a>
+- 📄 Know about my experiences <a target="_blank" >[https://drive.google.com/file/d/192yzuvVNMybvDR_xq8QI2DkpkuzCLtmd/view?usp=share_link](https://drive.google.com/file/d/1QFE4RtMdZMkJsspeJ4p9aOdBxk5GrljA/view?usp=sharing)/></a>
+- SPANISH: https://drive.google.com/file/d/192yzuvVNMybvDR_xq8QI2DkpkuzCLtmd/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
