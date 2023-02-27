@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **new projects**
 
-- 👨‍💻 All of my projects are available at [linkportafolio.com](linkportafolio.com)
+- 👨‍💻 All of my projects are available at https://alejandrovc1.github.io/portfolio/
 
 - 💬 Ask me about **React, Node, JavaScript, MongoDB**
 
 - 📫 How to reach me **alejandrovc-@outlook.com**
 
-- 📄 Know about my experiences [resumelink.com](resumelink.com)
+- 📄 Know about my experiences https://drive.google.com/file/d/192yzuvVNMybvDR_xq8QI2DkpkuzCLtmd/view?usp=share_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
