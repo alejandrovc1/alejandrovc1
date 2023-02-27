@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Node, JavaScript, MongoDB**
 
-- 📫 How to reach me **alejandrovc-@outlook.com**
+- 📫 Contact me in **alejandrovc-@outlook.com**
 
 - 📄 Know about my experiences <a target="_blank" >https://drive.google.com/file/d/192yzuvVNMybvDR_xq8QI2DkpkuzCLtmd/view?usp=share_link/></a>
 
